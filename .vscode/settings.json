@@ -1,0 +1,8 @@
+{
+	"tailwindCSS.includeLanguages": {
+		"*.css": "tailwindcss"
+	},
+	"css.customData": [
+		"./.vscode/css-data.json"
+	]
+}
